@@ -3,8 +3,31 @@
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="==== CANALES RELIGIOSOS ====" tvg-logo="http://www.rutasdelpaisajeculturalcafetero.com/publicaciones/info/rutadelcafe/media/img3331.png" group-title="Religiosos",== RELIGIOSO ==
+http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1944.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="873" tvg-name="EWTN" tvg-logo="https://www.m3u.cl/logo/873_EWTN.jpg", EWTN | US
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="872" tvg-name="ESNE" tvg-logo="https://www.m3u.cl/logo/872_ESNE.jpg", ESNE | US
+https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión Mexico
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/two-cinema-tickets-isolated-on-white-background-pair-movie-entrance-vector-id1179553009" group-title="INFO",27/12/2021 - CINE
 http://tecnotv.club/dc27/peliculas.php?id=1819
+
+
 
 
 
