@@ -33,7 +33,8 @@ http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=103|User-Agent=tuplayer
 #EXTINF:-1, PARAMOUNT CHANNEL - MX REG
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=120|User-Agent=tuplayer 
 
-
+#EXTINF:-1, UNIVERSAL - TV REG
+http://45.181.122.17:8000/play/a02d
 
 #EXTINF:-1,TNT Series - ANDR REG
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=109|User-Agent=tuplayer
