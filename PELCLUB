@@ -312,6 +312,7 @@ http://clubtv.link/2sep/token209/peliculas.php?id=1819
 
 
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/PZKQHGK.png" group-title="PELÍCULAS",Vertigo
 http://clubtv.link/movies/vertigo
 #EXTINF:-1 tvg-logo="https://imgur.com/ihaFtfr.png" group-title="PELÍCULAS",Doctor Strange 2
@@ -348,7 +349,6 @@ http://clubtv.link/movies/interceptor
 http://clubtv.link/movies/tsu
 #EXTINF:-1 tvg-logo="https://imgur.com/gBpg7RM.png" group-title="PELÍCULAS",There Are No Saints
 http://clubtv.link/movies/saints
-
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",The Batman LAT
 http://clubtv.link/2sep/token209/peliculas2.php?c=tmhhy77/tmhhy77.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/v1XE3dtqd9zsEET0EMkxBgXYP6T.jpg" group-title="PELICULAS" , Black Widow
